@@ -1,4 +1,4 @@
-# Hi there, I'm Mik 👋
+# Hi there, I'm Michael 👋
 
 **Software Engineer · Full-Stack Web Developer · Cybersecurity Enthusiast**
 
