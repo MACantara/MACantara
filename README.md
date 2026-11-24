@@ -1,4 +1,4 @@
-# Hi there, I'm Michael 👋
+# Hi there, I'm Michael Angelo Cantara👋
 
 **Software Engineer · Full-Stack Web Developer · Cybersecurity Enthusiast**
 
